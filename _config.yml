@@ -1,14 +1,21 @@
+---
+layout: default
+---
+
 theme: jekyll-theme-minimal
 title: Ann Rutt
 logo: /images/test.jpg
 description: A personal website to learn more about Ann Rutt
 color-scheme: auto
-
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
-    
+
+navigation:
+  - name: Values Test
+    link: ./values.md
+
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
