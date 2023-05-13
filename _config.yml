@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Ann Rutt
 description: A personal website to learn more about Ann Rutt
+navigation:
+  - {"title":"Values1", "file": "/.values.md"}
+  - {"title":"Values2", "file": "values.md"}
