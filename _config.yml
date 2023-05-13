@@ -8,4 +8,4 @@ sidebar:
     
 plugins:
   - jekyll-sitemap
-  - jemoji
+  - jekyll-remote-theme
