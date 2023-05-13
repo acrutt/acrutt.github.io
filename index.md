@@ -1,9 +1,6 @@
----
-layout: default
----
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./values.html).
+[Link to another page](./values.md).
 
 There should be whitespace between paragraphs.
 
