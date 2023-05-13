@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 theme: jekyll-theme-minimal
 title: Ann Rutt
 logo: /images/test.jpg
@@ -7,6 +11,18 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+
+navigation:
+  - name: Values Test
+    link: ./values.md
+    
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/vaibhavvikas
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/vaibhavvikas
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
