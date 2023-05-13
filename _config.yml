@@ -12,10 +12,6 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 
-navigation:
-  - name: Values Test
-    link: ./values.md
-
 platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
