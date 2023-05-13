@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Ann Rutt
-description: A personal website to learn more about Ann Rutt
 logo: /images/test.jpg
+description: A personal website to learn more about Ann Rutt
 
 plugins:
   - jekyll-sitemap
