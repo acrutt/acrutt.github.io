@@ -1,3 +1,11 @@
-# Heading 1
-## Heading 2
-### Heading 3
+## Kindness
+
+## Integrity
+
+## Connection
+
+## Stewardship
+
+## Structure
+
+## Reflection
