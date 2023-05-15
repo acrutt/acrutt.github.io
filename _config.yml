@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Ann Rutt
 logo: /images/test.jpg
-description: A personal website to learn more about Ann Rutt
+description: I am an advocate for wholistic education, particularly in STEM where non-technical skills are also critical to success
 
 plugins:
   - jekyll-sitemap
@@ -12,6 +12,6 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/acrutt
-  - name: LinkedIn
+  - name: Values
     icon: <i class="fa-brands fa-linkedin"></i>
     link: ./values.md
