@@ -1,3 +1,6 @@
+I first completed a values inventory during my first year of college at a summer leadership retreat.
+Ever since, I've found revisiting this exercise is helpful as I learn more about myself and reflect on how I want to show-up in the world.
+
 ### Kindness
 Extending kindness to others and ourselves is a daily choice. 
 Every person has value and deserves to be treated with dignity, respect, and care.
