@@ -6,7 +6,7 @@ I worked as an undergraduate researcher under the supervision of [Jay Whitacre](
 
 After graduating from college, I stayed in Pittsburgh and worked for two years before attending graduate school.
 My first full time job was in research & development for water based batteries at Aquion Energy.
-While I retained my position, shortly after the company filed for Chapter 11 bankruptcy, I began working in Student Affairs at Carnegie Mellon overseeing a student housing community in the Office of Residential Education.
+While I retained my position at Aquion Energy, shortly after the company filed for Chapter 11 bankruptcy, I began working in Student Affairs at Carnegie Mellon overseeing a student housing community in the Office of Residential Education.
 
 In 2018, I moved to California to pursue my Ph.D. in Materials Science & Engineering at UC Berkeley.
 My research focused on computational materials discovery for magnesium cathodes in the [Persson Group](https://perssongroup.lbl.gov/).
