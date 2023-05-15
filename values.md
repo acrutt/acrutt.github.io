@@ -1,3 +1,5 @@
+# Values
+
 I first completed a values inventory during my first year of college at a summer leadership retreat.
 Ever since, I've found revisiting this exercise is helpful as I learn more about myself and reflect on how I want to show-up in the world.
 

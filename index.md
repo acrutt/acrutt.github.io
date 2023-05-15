@@ -15,6 +15,6 @@ I'm particularly interested in cultivating essential teamwork, leadership, and c
 
 # Learn More About My...
 ### [Values](./values.md)
-### [Technical Experiences]()
-### [Personal Interests]()
-### [Assorted Recommendations]()
+### [Technical Experiences](./technical.md)
+### [Personal Interests](./personal.md)
+### [Assorted Suggestions](./suggestions.md)
