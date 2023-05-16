@@ -14,5 +14,6 @@ I like pursuing an assortment of creative odds and ends in my spare time.
 Some recent examples include painting, baking and decorating unconventional cookies, and making paper cards!
 ![](./images/crafting.jpg)
 
-When I have downtime, I also look forward to slowing down and resting. I can put my organizing skills to use with a puzzle or learn from others by reading a book or listening to a podcast. 
+I also like activities where I can slow down and rejuvenate. 
+I can put my organizing skills to use with a puzzle, have fun playing board games, or learn from others by reading a book or listening to a podcast. 
 ![](./images/puzzle.JPG)
