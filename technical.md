@@ -21,7 +21,7 @@ In order to perform high-throughput screenings based on first principle calculat
 I have also leveraged my experiences with energy storage technologies to perform consulting work.
 My areas of expertise include Li-ion, aqueous, and multivalent batteries where I am familiar with both experimental and computational approaches.
 
-**[More details can be found on my resume linked here]()**
+**[More details can be found on my resume linked here](./ann_rutt_technical_resume.pdf)**
 
 ## Publications
 
