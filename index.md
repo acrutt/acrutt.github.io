@@ -2,7 +2,7 @@
 I'm originally from the East Coast and spent my childhood growing up in Northern Virginia.
 I earned my B.S. in Materials Science & Engineering with an additional major in Biomedical Engineering from Carnegie Mellon University.
 I was strongly influenced by my experiences outside of the classroom as an undergraduate student.
-I worked as an undergraduate researcher under the supervision of [Jay Whitacre](https://www.andrew.cmu.edu/user/whitacre/index.html), served as a resident assistant, and held leadership roles in Greek Life.
+I worked as an undergraduate researcher under the supervision of [Jay F. Whitacre](https://www.andrew.cmu.edu/user/whitacre/index.html), served as a resident assistant, and held leadership roles in Greek Life.
 
 After graduating from college, I stayed in Pittsburgh and worked for two years before attending graduate school.
 My first full time job was in research & development for water based batteries at Aquion Energy.
@@ -13,7 +13,7 @@ My research focused on computational materials discovery for magnesium cathodes 
 Over the course of graduate school, my professional interests shifted from developing next-generation energy storage materials to mentoring and teaching.
 I'm particularly interested in cultivating essential teamwork, leadership, and communication skills which are often not emphasized in STEM education.
 
-# Learn More About My...
+## Learn More About My...
 ### [Values](./values.md)
 ### [Technical Experiences](./technical.md)
 ### [Personal Interests](./personal.md)
