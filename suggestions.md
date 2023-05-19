@@ -26,10 +26,7 @@ Revisionist History with Malcolm Gladwell: S1 E4 ["Carlos Doesn’t Remember"](h
 
 ## Books
 
-_Professional Troublemaker: The Fear-Fighter Manual_ by Luvvie Ajayi Jones
-
-_Untamed_ by Glennon Doyle
-
-_Heart Medicine_ by Radhule Weininger
-
-_Know My Name_ by Chanel Miller
+* _Professional Troublemaker: The Fear-Fighter Manual_ by Luvvie Ajayi Jones
+* _Untamed_ by Glennon Doyle
+* _Heart Medicine_ by Radhule Weininger
+* _Know My Name_ by Chanel Miller
