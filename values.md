@@ -1,6 +1,6 @@
 # My Values
 
-I first completed a values inventory during my first year of college at a summer leadership retreat.
+I completed my first values inventory during college at a summer leadership conference.
 Ever since, I've found revisiting this exercise is helpful as I learn more about myself and reflect on how I want to show-up in the world.
 
 ### Kindness
@@ -32,5 +32,4 @@ In my work, I always strive to leave things better for the next person who may f
 I rely on organization to function and perform at a high level.
 I believe collaboration and teams are stronger when roles, responsibilities, and expectations are clearly defined.
 Structure helps organizations efficiently and sustainably work towards one common purpose.
-
 
