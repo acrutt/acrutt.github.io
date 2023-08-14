@@ -25,12 +25,14 @@ My areas of expertise include Li-ion, aqueous, and multivalent batteries where I
 
 ## Publications
 
-**A. Rutt,** J.X. Shen, M. Horton, J. Kim, J. Lin, and K. A. Persson, Expanding the Material Search Space for Multivalent Cathodes, ACS Appl Mater Interfaces 14, 44367 (2022) [https://doi.org/10.1021/acsami.2c11733](https://doi.org/10.1021/acsami.2c11733).
+**A. Rutt**, D. Sari, Q. Chen, J. Kim, G. Ceder, and K. A. Persson, Novel Structural Motif To Promote Mg-Ion Mobility: Investigating ABO4 Zircons as Magnesium Intercalation Cathodes. ACS Appl Mater Interfaces 15, 34983 (2023) [https://doi.org/10.1021/acsami.3c05964](https://doi.org/10.1021/acsami.3c05964).
 
-Y. Tian, G. Zeng, **A. Rutt,** T. Shi, H. Kim, J. Wang, J. Koettgen, Y. Sun, B. Ouyang, T. Chen, Z. Lun, Z. Rong, K. A. Persson, G. Ceder, Promises and Challenges of Next-Generation “Beyond Li-Ion” Batteries for Electric Vehicles and Grid Decarbonization, Chem Rev 121, 1623 (2021) [https://doi.org/10.1021/acs.chemrev.0c00767](https://doi.org/10.1021/acs.chemrev.0c00767).
+**A. Rutt**, J.X. Shen, M. Horton, J. Kim, J. Lin, and K. A. Persson, Expanding the Material Search Space for Multivalent Cathodes, ACS Appl Mater Interfaces 14, 44367 (2022) [https://doi.org/10.1021/acsami.2c11733](https://doi.org/10.1021/acsami.2c11733).
 
-W. Wu, S. Shanbhag, A. Wise, J. Chang, **A. Rutt,** and J. F. Whitacre, High Performance TiP2O7 Based Intercalation Negative Electrode for Aqueous Lithium-Ion Batteries via a Facile Synthetic Route, J Electrochem Soc 162, A1921 (2015) [https://doi.org/10.1149/2.0071511jes](https://doi.org/10.1149/2.0071511jes).
+Y. Tian, G. Zeng, **A. Rutt**, T. Shi, H. Kim, J. Wang, J. Koettgen, Y. Sun, B. Ouyang, T. Chen, Z. Lun, Z. Rong, K. A. Persson, G. Ceder, Promises and Challenges of Next-Generation “Beyond Li-Ion” Batteries for Electric Vehicles and Grid Decarbonization, Chem Rev 121, 1623 (2021) [https://doi.org/10.1021/acs.chemrev.0c00767](https://doi.org/10.1021/acs.chemrev.0c00767).
 
-W. Wu, S. Shabhag, J. Chang, **A. Rutt,** and J. F. Whitacre, Relating Electrolyte Concentration to Performance and Stability for NaTi2(PO4)/Na0.44MnO2 Aqueous Sodium-Ion Batteries, J Electrochem Soc 162, A803 (2015) [https://doi.org/10.1149/2.0121506jes](https://doi.org/10.1149/2.0121506jes).
+W. Wu, S. Shanbhag, A. Wise, J. Chang, **A. Rutt**, and J. F. Whitacre, High Performance TiP2O7 Based Intercalation Negative Electrode for Aqueous Lithium-Ion Batteries via a Facile Synthetic Route, J Electrochem Soc 162, A1921 (2015) [https://doi.org/10.1149/2.0071511jes](https://doi.org/10.1149/2.0071511jes).
 
-W. Wu, J. Yan, A. Wise, **A. Rutt,** and J. F. Whitacre, Using Intimate Carbon to Enhance the Performance of NaTi2(PO4)3 Anode Materials: Carbon Nanotubes vs Graphite, J Electrochem Soc 161, A561 (2014) [https://doi.org/10.1149/2.059404jes](https://doi.org/10.1149/2.059404jes).
+W. Wu, S. Shabhag, J. Chang, **A. Rutt**, and J. F. Whitacre, Relating Electrolyte Concentration to Performance and Stability for NaTi2(PO4)/Na0.44MnO2 Aqueous Sodium-Ion Batteries, J Electrochem Soc 162, A803 (2015) [https://doi.org/10.1149/2.0121506jes](https://doi.org/10.1149/2.0121506jes).
+
+W. Wu, J. Yan, A. Wise, **A. Rutt**, and J. F. Whitacre, Using Intimate Carbon to Enhance the Performance of NaTi2(PO4)3 Anode Materials: Carbon Nanotubes vs Graphite, J Electrochem Soc 161, A561 (2014) [https://doi.org/10.1149/2.059404jes](https://doi.org/10.1149/2.059404jes).
